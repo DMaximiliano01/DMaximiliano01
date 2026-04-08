@@ -13,7 +13,7 @@ Soy una persona que disfruta los desafíos técnicos. Si hay algo que no conozco
 * **Bases de Datos:** Experiencia con SQL (MySQL) y nociones de NoSQL.
 
 **Lenguajes y Herramientas:**
-`JavaScript` | `React` | `Node.js` | `Python` | `MySQL` | `n8n`
+`JavaScript` | `React` | `Node.js` | `Python` | `PHP` | `MySQL` | `n8n`
 
 ---
 
