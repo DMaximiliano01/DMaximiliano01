@@ -11,9 +11,10 @@ Soy una persona que disfruta los desafíos técnicos. Si hay algo que no conozco
 * **Backend:** Conocimientos básicos y en crecimiento.
 * **Automatización:** Iniciando en el mundo de **n8n** para optimizar procesos.
 * **Bases de Datos:** Experiencia con SQL (MySQL) y nociones de NoSQL.
+* **DevOps/Herramientas:** Manejo básico de **Docker** para despliegue de contenedores.
 
 **Lenguajes y Herramientas:**
-`JavaScript` | `React` | `Node.js` | `Python` | `PHP` | `MySQL` | `n8n`
+`JavaScript` | `React` | `Node.js` | `Python` | `PHP` | `MySQL` | `n8n` | `Docker`
 
 ---
 
