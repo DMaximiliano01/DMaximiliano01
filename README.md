@@ -24,8 +24,4 @@ Soy una persona que disfruta los desafíos técnicos. Si hay algo que no conozco
 
 ---
 
-## 📊 Mis estadísticas
-![Mis lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=DMaximiliano01&layout=compact&theme=vision-friendly-dark)
-
----
 *"Me encanta el desafío de aprender algo completamente nuevo."*
